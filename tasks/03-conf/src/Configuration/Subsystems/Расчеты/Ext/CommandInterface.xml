@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<CommandsVisibility>
+		<Command name="0:0ae5fb09-efcf-475c-814b-ece12f1c6072">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:c5838cc9-53d7-46b5-9781-2a7577a974d0">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:d40400eb-e10b-4a50-bfe4-6a226261ac28">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:14b733b9-1c73-4925-8d27-b2e103b87ea2">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:3757b34e-da63-4cec-a7d9-9ae527a24c4d">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:0d507993-d79f-4295-b2f1-44ef3c0149d2">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:bad86d28-9b7a-4709-9398-b851d588ca30">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:b4066a3a-32df-4737-9f1a-05e03d4badc4">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="0:0ae5fb09-efcf-475c-814b-ece12f1c6072">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:c5838cc9-53d7-46b5-9781-2a7577a974d0">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:d40400eb-e10b-4a50-bfe4-6a226261ac28">
+			<CommandGroup>CommandGroup.Документы</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:14b733b9-1c73-4925-8d27-b2e103b87ea2">
+			<CommandGroup>CommandGroup.РегистрыСведений</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:3757b34e-da63-4cec-a7d9-9ae527a24c4d">
+			<CommandGroup>CommandGroup.РегистрыСведений</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:0d507993-d79f-4295-b2f1-44ef3c0149d2">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:bad86d28-9b7a-4709-9398-b851d588ca30">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:b4066a3a-32df-4737-9f1a-05e03d4badc4">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:0ae5fb09-efcf-475c-814b-ece12f1c6072">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="0:c5838cc9-53d7-46b5-9781-2a7577a974d0">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="0:d40400eb-e10b-4a50-bfe4-6a226261ac28">
+			<CommandGroup>CommandGroup.Документы</CommandGroup>
+		</Command>
+		<Command name="0:14b733b9-1c73-4925-8d27-b2e103b87ea2">
+			<CommandGroup>CommandGroup.РегистрыСведений</CommandGroup>
+		</Command>
+		<Command name="0:3757b34e-da63-4cec-a7d9-9ae527a24c4d">
+			<CommandGroup>CommandGroup.РегистрыСведений</CommandGroup>
+		</Command>
+		<Command name="0:0d507993-d79f-4295-b2f1-44ef3c0149d2">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+		</Command>
+		<Command name="0:bad86d28-9b7a-4709-9398-b851d588ca30">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+		</Command>
+		<Command name="0:b4066a3a-32df-4737-9f1a-05e03d4badc4">
+			<CommandGroup>CommandGroup.РегистрыСПР</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.Справочники</Group>
+		<Group>CommandGroup.Документы</Group>
+		<Group>CommandGroup.РегистрыСведений</Group>
+		<Group>CommandGroup.РегистрыСПР</Group>
+	</GroupsOrder>
+</CommandInterface>
