@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<Subsystem uuid="a03e4fd9-655e-47e7-85c1-0ed71bf08ce4">
+		<Properties>
+			<Name>Расчеты</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Расчеты</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<UseOneCommand>false</UseOneCommand>
+			<Explanation/>
+			<Picture>
+				<xr:Ref>CommonPicture.Расчеты</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">c5838cc9-53d7-46b5-9781-2a7577a974d0</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">0ae5fb09-efcf-475c-814b-ece12f1c6072</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">d40400eb-e10b-4a50-bfe4-6a226261ac28</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">7cae0bec-65db-42b0-87ab-f27d91394d1b</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">bad86d28-9b7a-4709-9398-b851d588ca30</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">0d507993-d79f-4295-b2f1-44ef3c0149d2</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">b4066a3a-32df-4737-9f1a-05e03d4badc4</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">14b733b9-1c73-4925-8d27-b2e103b87ea2</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">3757b34e-da63-4cec-a7d9-9ae527a24c4d</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>
